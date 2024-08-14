@@ -12,7 +12,7 @@ os.makedirs(OUTDIR, exist_ok=True)  # Create output directory if it doesn't exis
 HEIGHT = 512
 WIDTH = 512
 NUM_INTERPOLATION_STEPS = 20
-# List of prompts representing different stages of Dubai's evolution
+# List of prompts to use for interpolation
 prompts = [
     "Old Dubai Desert Village with tents and wells, aerial view",
     "Old Dubai City, aerial view",
