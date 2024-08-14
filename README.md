@@ -24,6 +24,8 @@ To use the Flux.1 dev 4-bit quantized for image generation refer the [original r
 
 This project runs prompt interpolation between multiple prompt encodings and generates a gif as output.
 
+![](./assets/kid.gif)
+
 ## How to use:
 
 1. clone the repo:
