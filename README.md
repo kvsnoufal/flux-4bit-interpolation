@@ -37,7 +37,7 @@ This project runs prompt interpolation between multiple prompt encodings and gen
     pip install -r requirements.txt
     ```
 
-3. run `run_interpolation.py`:
+3. run `run_interpolation.py` - Modify the prompts in the file as needed:
     ```sh
     python run_interpolation.py
     ```
