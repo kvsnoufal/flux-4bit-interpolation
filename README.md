@@ -1,6 +1,6 @@
 # Flux.1 with 4 bit Quantization for prompt interpolation
 
-This is a fork of the [github repo] (https://github.com/HighCWu/flux-4bit)
+This is a fork of the [github repo] (https://github.com/HighCWu/flux-4bit). The repo has been modified to do prompt latent space interpolation.
 
 To use the Flux.1 dev 4-bit quantized for image generation refer the [original repo](https://github.com/HighCWu/flux-4bit)
 <div align = center>
